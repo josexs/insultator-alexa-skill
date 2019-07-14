@@ -1,6 +1,7 @@
 export const messages = {
     title: 'Insultator Skill',
-    welcome: '¡Ey! Bienvenido a Insulteitor, insúltame y saca tu ira contra mí, se que te gusta...',
+    welcome: `¡Ey! Bienvenido a Insulteitor, insúltame y saca tu ira contra mí, 
+                se que te gusta...Puedes empezar, diciéndome el primer insulto que se te ocúrra...`,
     welcomeRepeat: '¿No me dices nada? ¡Insúltame!',
     error: '¡Joder! ¡No entiendo lo que dices! ¡Ese insulto a sido una mierda!',
     errorRepeat: '¡Vocaliza! ¿Tienes un rabo en la boca?',
